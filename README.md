@@ -15,10 +15,6 @@
 
 <br/>
 
-> 🏆 **Domain Winners** — GLITCHCON 2.0 · National Hackathon at vellore institute of technology
-> HackerRank × MellonAI × Kathir Memorial Hospital × Arpina Solutions
-> **March 9–10, 2026 · MG Auditorium, VIT**
-
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -39,9 +35,6 @@
 
 ---
 
-
-
-
 ## 🧬 What is ClinSight AI?
 
 **ClinSight AI** is an **agentic clinical intelligence platform** that eliminates one of the most costly inefficiencies in modern hospitals:
@@ -51,29 +44,6 @@
 In busy hospital environments, a physician may manage hundreds of patients daily — each with dense, fragmented histories buried across case sheets, visit logs, lab reports, and prescription records. ClinSight deploys a **multi-agent AI pipeline** that automatically analyzes patient history, detects clinical risks, and generates a **60-second clinical brief** before the doctor even begins.
 
 This isn't another AI chatbot. It's an **orchestrated clinical intelligence layer** — purpose-built for healthcare.
-
----
-
-## 🏆 Recognition
-
-<table>
-  <tr>
-    <td><b>Event</b></td>
-    <td>GLITCHCON 2.0 — National-Level Hackathon</td>
-  </tr>
-  <tr>
-    <td><b>Result</b></td>
-    <td>🥇 Domain Winners</td>
-  </tr>
-  <tr>
-    <td><b>Organized by</b></td>
-    <td>HackerRank · MellonAI · Kathir Memorial Hospital · Arpina Solutions · WeLe · BITUMEN · ECDS · VITAA</td>
-  </tr>
-  <tr>
-    <td><b>Venue & Date</b></td>
-    <td>MG Auditorium, VIT — March 9–10, 2026</td>
-  </tr>
-</table>
 
 ---
 
@@ -312,23 +282,6 @@ clinsight-ai/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## 👥 Team
-
-Built over 48 hours at VIT by **Team Fanatics** 🔥
-
-<table>
-  <tr>
-    <td align="center"><b>Dipsita Rout</b><br/><a href="https://www.linkedin.com/in/dipsita-rout/">LinkedIn ↗</a></td>
-    <td align="center"><b>Meghna Mandawra</b><br/><a href="https://www.linkedin.com/in/meghna-mandawra-b4083228b/">LinkedIn ↗</a></td>
-    <td align="center"><b>Riddhi Arora</b><br/><a href="https://www.linkedin.com/in/itsriddhiarora/">LinkedIn ↗</a></td>
-    <td align="center"><b>Shreeya Kollipara</b><br/><a href="https://www.linkedin.com/in/shreeya-kollipara-47a42128b/">LinkedIn ↗</a></td>
-    <td align="center"><b>Shreyash Gautam</b><br/><a href="https://www.linkedin.com/in/shreyash-gautam/">LinkedIn ↗</a></td>
-  </tr>
-</table>
-
 ---
 
 ## 🚀 Future Roadmap
@@ -343,12 +296,6 @@ Built over 48 hours at VIT by **Team Fanatics** 🔥
 - [ ] 🧪 **RAGAS Evaluation** — Faithfulness and relevance scoring for all retrieved insights
 - [ ] 🔄 **Streaming Summaries** — Token-by-token streaming for faster perceived response time
 - [ ] 📱 **Mobile-First Clinical View** — Lightweight dashboard for ward-round tablet use
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
